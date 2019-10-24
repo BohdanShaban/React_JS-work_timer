@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_JS-work_timer/static/css/main.9e9f8d20.chunk.css",
+    "main.js": "/React_JS-work_timer/static/js/main.26141276.chunk.js",
+    "main.js.map": "/React_JS-work_timer/static/js/main.26141276.chunk.js.map",
+    "runtime~main.js": "/React_JS-work_timer/static/js/runtime~main.673d0152.js",
+    "runtime~main.js.map": "/React_JS-work_timer/static/js/runtime~main.673d0152.js.map",
+    "static/js/2.d6d57a46.chunk.js": "/React_JS-work_timer/static/js/2.d6d57a46.chunk.js",
+    "static/js/2.d6d57a46.chunk.js.map": "/React_JS-work_timer/static/js/2.d6d57a46.chunk.js.map",
+    "index.html": "/React_JS-work_timer/index.html",
+    "precache-manifest.3c0076b2503a32ae619835bdac7a9421.js": "/React_JS-work_timer/precache-manifest.3c0076b2503a32ae619835bdac7a9421.js",
+    "service-worker.js": "/React_JS-work_timer/service-worker.js",
+    "static/css/main.9e9f8d20.chunk.css.map": "/React_JS-work_timer/static/css/main.9e9f8d20.chunk.css.map",
+    "static/media/logo.svg": "/React_JS-work_timer/static/media/logo.5d5d9eef.svg"
+  }
+}
